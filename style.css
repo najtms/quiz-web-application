@@ -1,0 +1,15 @@
+body {
+  background: #f7f7f7;
+}
+
+.card {
+  border-radius: 16px;
+}
+
+#quiz-container, #result {
+  margin-top: 0;
+}
+
+button, .btn {
+  font-size: 1rem;
+}
