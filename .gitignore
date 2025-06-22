@@ -1,0 +1,29 @@
+# .gitignore
+
+# Node.js dependencies
+node_modules/
+
+# PHP dependencies
+vendor/
+
+# Build output
+dist/
+build/
+
+# Environment files
+.env
+
+# Mac system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Log files
+*.log
+
+# MAMP specific
+logs/
+tmp/
+
+*.csv
