@@ -1,0 +1,54 @@
+Question,Correct Answer,False Option 1,False Option 2,False Option 3
+Software engineering is best defined as:,Application of a systematic disciplined and quantifiable approach to software,Writing code efficiently,Managing software teams only,Debugging programs
+According to IEEE 610.12 software engineering includes:,Requirements design implementation testing maintenance,Programming only,Coding and deployment only,Hardware integration
+“Software engineering ≠ programming” means:,Engineering includes broader responsibilities than coding,Programming is unethical,Programming replaces design,Engineering ignores testing
+Software engineering emphasizes:,Quality and safety,Speed over safety,Individual work,Profit maximization
+Software engineers hold:,Public trust and responsibility,No public responsibility,Only contractual responsibility,Responsibility only to employers
+According to Parnas software engineers should be regarded as:,True engineers,Coders,Technicians,Managers
+Parnas argued that software engineers must:,Use mathematics,Avoid mathematics,Focus only on UX,Avoid accountability
+Accountability includes:,Objecting to decisions violating standards,Following orders without question,Ignoring unethical behavior,Prioritizing deadlines
+Parnas advocated for:,Licensing and education of software engineers,Fewer regulations,Open-source only,Removing codes of ethics
+The Waterfall model is characterized by:,Stable requirements and sequential phases,Iterative risk analysis,Constant change,Customer-driven cycles
+The Spiral model focuses on:,Risk-driven iterative development,Fixed phases,No documentation,Fast delivery
+Rational Unified Process RUP heavily relies on:,UML models,Agile sprints,Trial-and-error,Continuous deployment
+Agile methodologies are best described as:,Customer-responsive and collaborative,Rigid and sequential,Documentation-heavy,Risk-averse
+The choice of methodology should depend on:,Project needs,Developer preference,Company size,Programming language
+In waterfall projects halfway through development:,100% requirements are 50% done,50% requirements are fully done,No requirements are done,All features are complete
+CMMI is used to:,Assess and improve software engineering practices,Replace methodologies,Enforce ethics,Automate testing
+Software inspections primarily reduce:,Cost of poor quality,Development speed,Innovation,Team size
+The Fagan inspection method focuses on:,Systematic defect detection before testing,Automated testing,User acceptance,Deployment
+The Gilb method extends inspections by:,Adding metrics and measurements,Removing documentation,Skipping reviews,Focusing on UI
+Ethics demands software be:,Fit for purpose,Cheap,Fast,Profitable
+“Do no harm” originates from:,Hippocratic Oath,ACM Code,GDPR,ISO standards
+Safety-critical systems include:,Flight control and nuclear systems,E-commerce platforms,Social media apps,Gaming software
+Verification of safety-critical systems must include:,Formal methods and testing,Testing only,User feedback,Code reviews only
+Therac-25 was:,A radiotherapy machine,A military system,A navigation system,A nuclear reactor
+How many accidents occurred with Therac-25?,Six,Two,Four,Ten
+Causes of the Therac-25 disaster included:,Ignored user reports and inadequate testing,Hardware defects only,Sabotage,Cyberattacks
+The key lesson from Therac-25 is:,Rigorous testing and ethical responsiveness are essential,Speed matters most,Software can replace hardware safety,Users are responsible
+The Challenger disaster was caused by failure of:,O-rings in cold weather,Software logic,Navigation system,Fuel tanks
+Engineer Robert Boisjoly:,Warned management of danger,Approved the launch,Ignored the risk,Designed the O-rings
+The Challenger case emphasizes:,Public safety above employer loyalty,Employer loyalty over safety,Speed over caution,Legal compliance only
+Separatism means:,Engineers give technical advice managers decide actions,Engineers decide everything,Engineers avoid ethics,Management ignores engineers
+A key problem with separatism is:,Managers underestimating risks,Too much transparency,Too much testing,Excess documentation
+Ethical decision-making requires:,Openness and transparency,Speed,Secrecy,Profit focus
+Apple slowed iPhones to:,Prevent sudden shutdowns,Force upgrades,Save battery life illegally,Collect data
+The ethical issue in Batterygate was:,Lack of user transparency and consent,Hardware failure,Software bugs,Pricing
+PMI core values include:,Responsibility respect fairness honesty,Profit speed innovation,Authority and obedience,Competition
+Falsely reporting project progress is:,Unethical and deceptive,Efficient,Ethical leadership,Risk management
+Pressuring developers into excessive overtime violates:,Ethical project management,Productivity,Contracts only,Agile principles
+Ethical design focuses on:,How technology affects society,Technology only,Performance optimization,UI trends
+The Bridge on the River Kwai illustrates:,Purpose matters as much as technical success,Technical excellence is enough,Collaboration is unethical,Engineering neutrality
+Value-Centred Design VCD emphasizes:,Human values in design decisions,Speed,Profit,Automation
+A common ethical trade-off is:,Security vs usability,Design vs testing,Profit vs speed,Code vs documentation
+Avoiding algorithmic bias is part of:,Ethical design,Performance testing,Marketing,Licensing
+Structural plagiarism means:,Minor changes to copied code,Copying comments,Using open-source legally,Referencing sources
+Using open-source code ethically requires:,Giving credit and following the license,Removing licenses,Rewriting everything,Keeping it secret
+ISTQB Code of Ethics prioritizes:,Public interest,Speed,Profit,Management approval
+Skipping tests due to time pressure is:,Unethical,Acceptable,Efficient,Agile
+Black-box testing focuses on:,Inputs and outputs,Code structure,Algorithms,Documentation
+White-box testing requires:,Knowledge of internal logic,No code access,User feedback,End-user testing
+Acceptance testing is performed by:,End users or clients,Developers,Testers only,Auditors
+Using real customer data in testing is:,Unethical without anonymization,Efficient,Ethical,Required
+Ethical software engineers should prioritize:,Human welfare,Business pressure,Deadlines,Innovation only
+“Do no harm” in software engineering means:,Avoid intentional or negligent harm to users,Avoid bugs,Avoid testing,Avoid responsibility

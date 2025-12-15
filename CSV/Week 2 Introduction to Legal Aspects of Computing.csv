@@ -1,0 +1,64 @@
+Question,Correct Answer,False Option 1,False Option 2,False Option 3
+Law is best defined as:,A codified system of rules enacted by government,Moral principles guiding behavior,Cultural traditions,Individual beliefs
+Laws are primarily introduced by:,Parliaments through legislation,Judges,Companies,Ethical committees
+Who interprets the law?,Judges,Software engineers,Legislators,Police officers
+The key difference between law and ethics is:,Law tells us what we must do; ethics tells us what we should do,Law is optional ethics is mandatory,Ethics is enforced by courts,Law applies only online
+Criminal law deals with:,Acts harmful to society as a whole,Private disputes,Company contracts,Intellectual property only
+A criminal case involves:,State vs individual,Plaintiff vs defendant,Company vs employee,Judge vs jury
+Civil law primarily resolves:,Disputes between private parties,Crimes,Ethical dilemmas,National security issues
+In civil law the party bringing the case is called:,Plaintiff,Prosecutor,Defendant,Witness
+Which is the highest-level source influencing BiH computing law?,EU law and international treaties,Organizational policies,Contracts,Company rulebooks
+GDPR influences BiH law because it is part of:,EU law and international treaties,Civil law,Organizational policy,Criminal code
+Which source defines internal IT rules inside a company?,Organizational policies,EU law,National law,Treaties
+Terms of Service primarily define:,User–organization rights and responsibilities,Criminal penalties,Ethical duties,Court procedures
+Every line of code can have:,Legal consequences,Ethical value only,No real-world impact,Financial value only
+Developers may face lawsuits due to:,Software failures and data breaches,UI design,Hardware costs,Programming language choice
+Legal literacy is considered:,A professional responsibility,Optional,A business skill only,A management task
+Which is NOT listed as a legal aspect of computing?,Software testing methodologies,Intellectual property,Software licensing,Bespoke development
+E-commerce law governs:,Online buying and selling,Software installation,Hardware manufacturing,Programming standards
+Intellectual property law protects:,Inventions designs and artistic works,Servers and networks,User behavior,Business ethics
+A patent grants:,Exclusive rights for a limited time,Unlimited ownership,Automatic copyright,Free public use
+Copyright protects:,Software source code,Algorithms only,Hardware designs,Databases only
+Trademarks primarily protect:,Brand identifiers,Software logic,Source code,Trade secrets
+A trade secret must:,Have value because it is secret,Be publicly known,Be registered,Expire after 20 years
+Which is an example of a trade secret?,Customer list,Published research paper,Open-source code,Trademark logo
+A software license is a legal agreement between:,Developer and licensee,Users and the government,Two developers,Courts and companies
+Software code is protected under:,Copyright law,Criminal law,Contract law,Patent law only
+A software license defines:,Usage copying modification and distribution,Programming language,Server location,Hardware requirements
+Proprietary software licenses typically:,Restrict modification and distribution,Allow free redistribution,Require open-source release,Are free of charge
+Microsoft Office is an example of:,Proprietary software,Copyleft software,Permissive license,Public domain software
+FOSS allows users to:,Modify and redistribute software,Use but not modify,Only study code,Sell without conditions
+GPL is an example of:,Copyleft license,Proprietary license,Permissive license,Subscription license
+Copyleft licenses require:,Modified versions to remain under the same license,Payment for use,Commercial resale,Closed-source distribution
+MIT and Apache licenses are:,Permissive,Copyleft,Proprietary,Enterprise-only
+Permissive licenses allow:,Integration into proprietary software,Mandatory open-source release,No redistribution,Government approval
+A per-device license means:,Restricted to one machine,One user per company,Unlimited installations,Subscription only
+Microsoft 365 uses which license model?,Subscription,Perpetual,Site,Per-device
+Reverse engineering software is often:,Restricted by licenses,Encouraged,Required,Illegal in all cases
+Bespoke software is:,Custom-built for a specific client,Off-the-shelf software,Always open-source,Subscription-based
+A Statement of Work (SOW) defines:,Project tasks deliverables and timelines,Criminal penalties,Software price only,Licensing fees
+Service Level Agreements (SLAs) define:,Service standards and penalties,Code quality,Ethical behavior,Copyright ownership
+E-commerce law ensures:,Legal validity of online transactions,Fast delivery,Free services,Ethical pricing
+Which is NOT a key e-commerce concept?,Software testing,Offer and acceptance,Consumer protection,Payment security
+Ransomware is:,A criminal offense,A civil dispute,A software license,Ethical hacking
+Spreading malware is treated under:,Criminal law,Civil law,Contract law,Ethics codes
+A customer suing for defective software is an example of:,Civil lawsuit,Criminal prosecution,Ethical dispute,Regulatory action
+Negligence in computing refers to:,Failure to take reasonable care,Intentional hacking,Open-source contribution,Legal compliance
+Defamation involves:,False damaging statements,Unauthorized access,Software bugs,Copyright infringement
+Personal data may be processed only if:,There is a legal basis,Company wants to,It is public,It is encrypted
+Data subjects have the right to:,Access correct and delete their data,Hide all data,Avoid taxes,Modify company databases
+Unauthorized system access is punished under:,Criminal Code of FBiH,GDPR,Contract law,Licensing law
+Selling pirated software violates:,Copyright law,Trade secret law,Ethical guidelines only,E-commerce rules
+Electronic signatures have:,Same legal validity as handwritten signatures,No legal value,Limited value,Only ethical importance
+Refusing an e-document only because it is digital is:,Illegal,Required,Encouraged,Ethical
+Whistleblowing by leaking data to journalists is:,Ethical but illegal,Ethical and legal,Legal but unethical,Neither
+Selling user data with hidden consent clauses is:,Legal but unethical,Ethical and legal,Illegal but ethical,Both ethical and illegal
+Ransomware attacks on hospitals are:,Neither legal nor ethical,Ethical,Legal,Legal but unethical
+A valid contract must include:,Offer acceptance and consideration,Only signatures,A lawyer,A judge
+Jurisdiction usually depends on:,Place of harm effects doctrine,Server location only,Company headquarters,User nationality
+Digital evidence includes:,Logs metadata and source code,Only emails,Physical devices only,Passwords only
+Vicarious liability means:,Employer is responsible for employees,User is responsible,No one is responsible,Contractor is immune
+Under the EU AI Act social scoring systems are:,Unacceptable risk and banned,High risk,Limited risk,Minimal risk
+Amazon’s AI hiring tool failed due to:,Gender bias,Poor performance,Data loss,Legal compliance
+Recruitment AI systems are classified as:,High risk Minimal risk,Limited risk,Unregulated
+The Boeing 737 MAX crashes were linked to:,MCAS software defects,Hardware failure only,Pilot sabotage,Cyberattacks

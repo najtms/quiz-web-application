@@ -1,0 +1,58 @@
+Question,Correct Answer,False Option 1,False Option 2,False Option 3
+Data science is best defined as:,Extracting knowledge from structured and unstructured data,Storing large datasets,Writing machine learning code,Managing databases
+Data science raises ethical and legal challenges mainly because:,It drives automated decision-making that can harm individuals,It is expensive,It replaces human judgment,It requires advanced mathematics
+Which is NOT a key ethical question in data science?,What programming language is used?,Who owns the data?,How is data collected and shared?,What happens when data is misused?
+Biased algorithms may result in:,Denied loans and job discrimination,Faster systems,Better personalization,Increased profits
+Algorithms trained mostly on majority data may:,Discriminate against minorities,Become more accurate,Eliminate bias,Improve fairness
+The main ethical goal in data science is to ensure algorithms are:,Fit for purpose accurate and fair,Fast and profitable,Complex and innovative,Proprietary
+Which is an example of personal data collection?,Email content and search history,Weather statistics,Public census data only,Open-source datasets
+Metadata refers to:,Data about data (e.g. call time recipient),Encrypted data,AI-generated data,Fake data
+Surveillance capitalism is concerned with:,Commercial exploitation of user data,Government spying only,Ethical AI development,Data anonymization
+Data brokers primarily:,Aggregate and sell detailed user profiles,Secure user data,Delete personal data,Enforce privacy laws
+Target predicted pregnancies by:,Analyzing shopping patterns,Asking customers directly,Using medical records,Monitoring social media posts
+A major ethical issue in the Target case was:,Lack of user consent,Incorrect predictions,Poor algorithm accuracy,High costs
+The Target case highlights problems related to:,Data broker transparency and privacy,Cybersecurity,Open-source licensing,Hardware failure
+The hiking boots case demonstrates:,Inference from behavior leading to privacy loss,Secure data processing,Improved recommendation systems,User satisfaction
+Increasing purchase probability from 1/5000 to 1/100 mainly resulted in:,Targeted advertising overload,Less advertising,User anonymity,Better prices
+A data scientist’s responsibility includes:,Avoiding abuse of collected information,Maximizing company profit,Ignoring social impact,Delegating ethical concerns
+Ethical data scientists must:,Use data and algorithms wisely,Hide data collection practices,Ignore bias,Rely solely on management
+Ethics of data science primarily investigates:,What is fair and just in handling data,How to optimize algorithms,Business intelligence tools,Programming efficiency
+Informed consent requires users to:,Understand what data is collected and why,Click “Accept All”,Read legal documents fully,Trust companies
+In IT systems consent is often considered coerced because:,Users must agree to access services,Users receive rewards,Services are optional,Consent is written clearly
+Facebook’s 2012 study was unethical mainly because it:,Influenced user mood without consent,Used incorrect data,Produced inaccurate results,Was publicly announced
+OKCupid’s “Love is Blind” experiment was unethical because it:,Manipulated users without consent,It removed photos,It reduced matches,It lowered profits
+Lying to users about match percentages violated:,Transparency and consent,Security principles,Copyright law,Data accuracy
+Legal ownership of data is:,Not necessarily the same as the data subject,Always with the data subject,Always with the company,Illegal
+The photographer of a photo legally owns:,The image,The subject,The metadata,The privacy rights
+Data collectors must:,Collect minimal lawful data,Collect as much data as possible,Share data freely,Ignore confidentiality
+Purpose limitation means data should be:,Used only for explicitly stated purposes,Reused freely,Stored indefinitely,Sold to third parties
+Valid consent must be:,Freely given informed and revocable,Hidden,Permanent,Implied
+User control includes the right to:,Modify and delete personal data,Edit company databases,Disable algorithms,Avoid profiling entirely
+Non-representative samples can lead to:,Model bias,Better predictions,Improved fairness,No impact
+Presentation bias involves:,Manipulating charts to hide differences,Incorrect code,Data breaches,Model overfitting
+Predictive policing systems may:,Over-target certain groups,Eliminate crime,Be unbiased,Improve justice
+Training data not representative of future populations can cause:,Incorrect or unfair outcomes,Perfect predictions,Ethical neutrality,Faster models
+Data scientists are responsible for testing:,Bias transparency and accountability,Profit margins,UI performance,Marketing strategies
+Descriptive analytics answers:,What happened?,Why did it happen?,What will happen?,What should we do?
+Predictive analytics focuses on:,Future outcomes,Past summaries,Policy decisions,Ethical frameworks
+Prescriptive analytics:,Suggests actions to take,Explains past events,Diagnoses problems,Stores data
+Big Data is characterized by:,Volume and velocity,Accuracy only,Ethics,Transparency
+A major privacy risk of big data is:,Users unknowingly sharing too much data,Hardware failure,Slow systems,High costs
+Privacy is best described as:,Right to be left alone,Data encryption,Data ownership,Data deletion
+Prosser identified how many types of privacy invasion?,Four,Two,Three,Five
+Modern privacy challenges are amplified because:,Internet never forgets,Laws are weak,Data is encrypted,Storage is limited
+Confirmshaming refers to:,Guilt-tripping users into consent,Blocking access,Data anonymization,Encryption
+A “roach motel” dark pattern means:,Easy sign-up hard cancellation,Easy cancellation,Hard sign-up,No consent
+Amazon Prime cancellation design was criticized for:,Dark patterns discouraging cancellation,Technical bugs,Data breaches,Pricing
+GDPR’s main goal is to:,Give individuals control over personal data,Increase data collection,Remove consent,Protect companies
+GDPR applies when:,Personal data is processed,Data is anonymous,Data is encrypted,Company is outside the EU
+Article 17 GDPR grants the right to:,Be forgotten (data erasure),Data portability,Data monetization,Profiling
+Data Privacy Impact Assessments (DPIA) are required when:,Processing is high-risk,Marketing campaigns run,Data is public,Consent exists
+The Digital Services Act (DSA) primarily regulates:,Digital platforms and online content,Hardware manufacturers,Universities,AI research
+Under the DSA platforms must:,Clearly label advertisements,Hide ads,Sell user data,Avoid transparency
+Confidentiality means:,Preventing unauthorized access,Data accuracy,Data availability,Fast processing
+Integrity ensures:,Data is not modified without authorization,Data accessibility,Data is shared freely,Data monetization
+ISO/IEC 27001 relates to:,Information security management,Ethics codes,Marketing compliance,Data ownership
+Training large AI models raises ethical concerns due to:,Carbon footprint,Accuracy,Open-source use,User consent
+Green AI focuses on:,Energy efficiency and sustainability,Model size,Profit,Marketing
+“Do no harm” in data science means:,Evaluate social and environmental impacts,Avoid data analysis,Ignore risks,Maximize personalization

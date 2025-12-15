@@ -1,0 +1,51 @@
+Question,Correct Answer,False Option 1,False Option 2,False Option 3
+The “right to be left alone” was defined by:,Brandeis & Warren,John Stuart Mill,Alan Westin,Jeremy Bentham
+According to Prosser (1960) how many types of privacy invasion exist?,Four,Two,Three,Five
+Which of the following is NOT one of Prosser’s four privacy invasions?,Identity theft,Intrusion upon seclusion,Public disclosure of private facts,Misappropriation of name or likeness
+A key modern privacy issue is that:,Data can persist indefinitely,Data is rarely stored,The internet forgets quickly,Privacy laws are universal
+Privacy as secrecy refers to:,Keeping intimate information secure,Government transparency,Data monetization,Public accountability
+Privacy as control emphasizes:,User ability to decide how and when data is shared,Encryption strength,Company ownership of data,Surveillance reduction
+Contextual integrity (Nissenbaum) means:,Information flow should match social context and expectations,Data must always be hidden,All data sharing is unethical,Data belongs to platforms
+Data privacy primarily concerns:,Protection of personal information collected by digital systems,Data storage capacity,Network performance,Software licensing
+De-identification involves:,Removing identifiers such as name and address,Encrypting all data,Deleting datasets,Selling anonymized data
+Privacy protects all EXCEPT:,Corporate profit,Freedom and autonomy,Identity,Trust in digital services
+The “chilling effect” refers to:,Users avoiding expression due to fear of surveillance or punishment,Data encryption,Cooling data centers,Reduced internet speed
+Lack of privacy can lead to:,Surveillance states and social control,Innovation,Better personalization,Transparency
+The Panopticon metaphor illustrates:,Constant possible surveillance,Decentralized control,Privacy by design,Anonymous communication
+Jeremy Bentham’s Panopticon was originally:,A circular prison design,A data center,A surveillance law,A religious structure
+The 1973 US report “Records Computers and the Rights of Citizens” introduced:,Fair Information Principles,GDPR,AI governance,Digital Services Act
+Which is NOT a Fair Information Principle?,Unlimited data retention,Transparency of collection,Accessibility of personal data,Safeguards and accountability
+Surveillance capitalism refers to:,Commercial exploitation of personal data,Government monitoring,Military surveillance,Anonymous browsing
+Which technology most blurs public vs. private data?,Social media and IoT,Typewriters,Offline databases,Paper records
+A major privacy risk of mobile apps is:,Excessive permissions and hidden data sharing,Poor UI,Slow performance,Lack of updates
+“Manufactured disclosures” are primarily caused by:,Dark patterns in UI design,Hackers,Encryption failures,Weak passwords
+“Faithless friends” refers to:,Friends sharing others’ private information,Social bots,Platforms leaking data,Account hacking
+Social media platforms pose privacy risks because they are:,Designed to be addictive,Open-source,Too transparent,Government-owned
+TikTok was fined mainly for:,Collecting minors’ data without adequate safeguards,Data breaches,Copyright infringement,AI bias
+A key legal outcome for TikTok was:,Multi-million euro GDPR fines and parental controls,Platform ban,Mandatory shutdown,Criminal charges
+Aadhaar raised privacy concerns due to:,Centralized biometric databases,Decentralized storage,Lack of encryption,Small user base
+The Indian Supreme Court ruled that privacy is:,A fundamental right,Optional,A commercial right,A corporate privilege
+Clearview AI was criticized mainly for:,Scraping images without consent,Inaccurate facial recognition,Selling data legally,Weak algorithms
+Clearview AI’s activities violated GDPR because of:,Unlawful biometric processing,Open-source use,Poor UI design,Lack of servers
+Purpose limitation means:,Data must only be used for the stated purpose,Data can be reused freely,Data must be public,Data must be sold
+Data minimization requires:,Collecting only what is necessary,Collecting all possible data,Storing data forever,Sharing data widely
+Accountability requires organizations to:,Demonstrate compliance with privacy rules,Delete all data,Avoid audits,Shift blame to users
+Digital dignity emphasizes:,Respecting the human behind the data,Legal compliance only,Data monetization,Automation
+Power imbalance exists because:,Big Tech controls vast user data and behavior,Users control platforms,Laws favor individuals,Data is anonymous
+End-to-end encryption ensures:,Only sender and receiver can read data,Only platforms can read data,Governments can decrypt data,Metadata is removed
+Federated learning:,Trains models without sharing raw data,Centralizes raw data,Eliminates AI bias,Replaces encryption
+Differential privacy works by:,Adding statistical noise,Removing identifiers,Encrypting databases,Blocking access
+Secure multiparty computation allows:,Joint analysis without revealing private data,Data selling,Full data sharing,Centralized storage
+The right to data portability allows users to:,Receive data in machine-readable form,Delete all company data,Stop all processing,Hide from surveillance
+The right to non-automated decision-making protects against:,Fully automated profiling,Manual review,Data breaches,Encryption
+Privacy by Design was proposed by:,Ann Cavoukian,Alan Turing,Brandeis,Tim Berners-Lee
+“Privacy as the default setting” means:,Privacy protection is automatic,Users must opt out,Consent is implied,Data is public
+GDPR starts from the presumption that:,Processing personal data is illegitimate unless justified,Data processing is always legal,Consent is optional,Data belongs to companies
+GDPR requires breaches to be reported within:,72 hours,24 hours,48 hours,One week
+The Digital Services Act (DSA) primarily regulates:,Digital platforms and online content,Hardware manufacturers,Universities,Encryption tools
+The DSA requires ads to be:,Clearly labeled as advertisements,Hidden,Personalized,Optional
+Which law gives Californians the right to opt out of data selling?,CCPA / CPRA,GDPR,DSA,LGPD
+The EU AI Act (2025) focuses on:,Risk-based regulation of AI systems,Software licensing,Internet speed,Social media ads
+Best privacy practice includes:,Explicit consent and minimal data collection,Collecting extra data just in case,Hidden policies,Unlimited retention
+Zoom’s “Zoombombing” case led to:,End-to-end encryption improvements,Platform shutdown,User bans,Removal of video calls
+Kopimism treats information as:,Sacred and free to share,Dangerous,Private property only,Illegal

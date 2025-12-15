@@ -1,0 +1,55 @@
+Question,Correct Answer,False Option 1,False Option 2,False Option 3
+Artificial Intelligence was formally coined in 1956 by:,John McCarthy,Alan Turing,Marvin Minsky,Norbert Wiener
+The long-term goal of AI includes all EXCEPT:,Guaranteed moral correctness,Intelligence and learning ability,Consciousness and free will,Ethical behavior
+AI is considered a multidisciplinary field because it combines:,Logic philosophy psychology linguistics ML robotics,Programming only,Hardware engineering,Economics and finance
+Ethics matters in AI primarily because:,AI systems raise deep moral and philosophical questions,AI is expensive,AI is fully autonomous,AI always replaces humans
+ELIZA was created by:,Joseph Weizenbaum,Alan Turing,John McCarthy,Geoffrey Hinton
+ELIZA was designed to simulate:,A Rogerian psychotherapist,A judge,A doctor,A teacher
+ELIZA worked primarily by:,Reflecting user input conversationally,Deep learning,Neural networks,Speech recognition
+A key ethical concern revealed by ELIZA was that:,Users believed it had genuine understanding,It collected biometric data,It made medical decisions,It replaced professionals
+Weizenbaum later argued that AI:,Threatens human dignity,Should replace all human judgment,Is morally neutral,Eliminates privacy risks
+According to Weizenbaum AI should NOT replace humans in roles requiring:,Empathy and moral judgment,Speed,Efficiency,Data processing
+Which role was explicitly mentioned as unsuitable for AI replacement?,Police officer,Software tester,Data analyst,Accountant
+A major privacy risk of future AI systems is:,Mass surveillance,Slow processing,Poor UX,High cost
+Geoffrey Hinton is known as:,Godfather of deep learning,Creator of ChatGPT,Founder of Google,Pioneer of robotics
+Hinton warned that the greatest danger of AI is:,Magnifying human flaws without accountability,Hardware failure,Machines becoming emotional,AI becoming conscious
+According to Hinton AI safety may not be prioritized because:,Profit and power dominate incentives,Governments ignore AI,AI is harmless,Ethics is solved
+Autonomous vehicles rely on:,AI GPS radar and computer vision,Human intuition,Manual controls,Crowdsourcing
+The main ethical challenge of self-driving cars is:,Moral decision-making in emergencies,Battery life,Speed limits,Comfort
+The Trolley Problem raises questions about:,Who should be prioritized in unavoidable harm scenarios,Energy efficiency,Traffic laws,Navigation accuracy
+One difficulty in autonomous vehicle ethics is that:,Rule-based systems cannot cover all scenarios,Ethics cannot be programmed,Sensors always fail,Laws are clear
+The precautionary principle requires that:,Manufacturers prove safety before deployment,Innovation proceeds without restriction,Users accept all risks,Ethics follows deployment
+The Tesla Autopilot crash occurred because:,Misclassification of lane markings and barriers,Brake failure only,Cyberattack,Weather conditions
+A key ethical issue in the Tesla case was:,Lack of clear warnings and over-reliance on automation,Driver negligence only,Poor road design,High vehicle speed limits
+Expert systems are designed to:,Mimic human expert reasoning,Replace all professionals,Perform physical tasks,Learn autonomously
+Which is NOT a component of an expert system?,Neural cortex,Knowledge base,Inference engine,Explanatory facility
+Mycin was not deployed widely because of:,Ethical and legal concerns,Poor accuracy,High cost,Lack of data
+A major ethical issue with expert systems is:,Accountability for incorrect decisions,Storage capacity,UI complexity,Deployment speed
+Historically technology has:,Displaced jobs while creating new ones,Only destroyed jobs,Only created jobs,Had no effect on work
+AI-driven displacement most affects:,Low-skilled workers,Executives,Politicians,Researchers
+The ideal future vision for AI and work is:,Human-AI collaboration,Full automation,Human elimination,Manual labor return
+Surveillance refers to:,Monitoring behavior and actions,Data deletion,Encryption,Transparency
+AI surveillance raises concern because it can enable:,Authoritarian control,Better UX,Fair governance,Reduced bias
+China’s Social Credit System uses AI to:,Monitor and score behavior,Improve healthcare,Encrypt communications,Reduce surveillance
+Biometric data is ethically sensitive because it is:,Permanent and unique,Easy to change,Anonymous,Optional
+Live Facial Recognition raises concerns mainly due to:,High false positives and mass scanning of innocents,Speed,Cost,Image quality
+Bias in AI systems often originates from:,Biased historical training data,Hardware limitations,User interfaces,Encryption
+Predictive policing was criticized because it:,Reinforced racial profiling,Reduced crime,Improved transparency,Used too little data
+Amazon’s hiring algorithm failed because it:,Learned gender bias from historical data,Preferred minorities,Ignored experience,Used too little data
+Algorithmic accountability asks:,Who is responsible for AI decisions,How fast models run,How to optimize code,How to reduce costs
+Deepfakes are dangerous because they:,Undermine trust in authentic media,Improve creativity,Reduce misinformation,Are easy to detect
+Political bots influenced elections by:,Spreading manipulated content at scale,Hacking voting machines,Shutting down platforms,Blocking voters
+AWS are systems that:,Can select and engage targets autonomously,Require constant human control,Are illegal everywhere,Are defensive only
+A major ethical concern with AWS is:,Inability to distinguish civilians from combatants,Battery life,Cost,Maintenance
+Many experts have called for:,A ban on fully autonomous weapons,Wider AWS deployment,Removal of regulation,Faster adoption
+Asimov’s First Law of Robotics prioritizes:,Human safety,Obedience,Robot survival,Efficiency
+Currently robots:,Lack consciousness and empathy,Have human rights,Are sentient beings,Can demand autonomy
+Super-intelligent machines would:,Exceed human intelligence in all domains,Match average human intelligence,Be easily controlled,Be purely theoretical
+A major risk of super-intelligence is:,Loss of human control,Hardware failure,Poor performance,High cost
+ChatGPT is best described as:,A generative large language model,An expert system,A rule-based chatbot,A search engine
+ChatGPT does NOT:,Truly understand meaning,Generate text,Predict probable responses,Write code
+A major ethical concern with ChatGPT in education is:,Cheating and plagiarism,Cost,Slow responses,Interface design
+AI voice-cloning scams are dangerous because they:,Exploit trust using realistic impersonation,Improve security,Require advanced hardware,Are rare
+Encoding ethics into AI is difficult because:,Ethics is context-dependent and complex,Ethics is universal,Laws are clear,AI is neutral
+Accountability in AI means:,Assigning responsibility for harm caused by AI decisions,Blaming users,Eliminating automation,Avoiding deployment
+The ultimate goal of ethical AI is to:,Serve humanity and protect human values,Maximize efficiency,Replace humans,Remove regulation
