@@ -8,9 +8,27 @@
 <body>
 <div class="container min-vh-100 d-flex justify-content-center align-items-center">
   <div class="card shadow-lg p-4 w-100" style="max-width: 500px;">
-    <h1 class="text-center mb-4">Upload Quiz CSV</h1>
-    <input type="file" id="csvFile" accept=".csv" class="form-control mb-3" />
-    <button onclick="loadQuiz()" class="btn btn-primary w-100 mb-3">Start Quiz</button>
+    <h1 class="text-center mb-4">Quiz Application</h1>
+    
+    <div id="instructions" class="alert alert-info mb-3">
+      <h6 class="alert-heading"><strong>How it works:</strong></h6>
+      <ul class="mb-0 small">
+        <li>Select a quiz from the dropdown below</li>
+        <li>10 random questions will be selected for you</li>
+        <li>Click your answer to move to the next question</li>
+        <li>Review all your answers at the end</li>
+      </ul>
+    </div>
+    
+    <div id="progress-tracker" class="mb-3" style="display:none;">
+      <div class="d-flex justify-content-between align-items-center mb-2">
+        <span class="fw-bold">Progress:</span>
+        <span id="progress-text" class="badge bg-primary">Question 0/10</span>
+      </div>
+      <div class="progress">
+        <div id="progress-bar" class="progress-bar" role="progressbar" style="width: 0%"></div>
+      </div>
+    </div>
 
     <div id="quiz-container" style="display:none;">
       <div id="question" class="mb-3 fw-bold"></div>
@@ -20,7 +38,7 @@
       <span id="false-question" class="badge text-wrap"></span>
 
     </div>
-    <button id="nextBtn" onclick="nextQuestion()" class="btn btn-secondary w-100 mt-3">Next</button>
+    <button id="nextBtn" onclick="nextQuestion()" class="btn btn-secondary w-100 mt-3" style="display:none;">Next</button>
     <div class="dropdown w-100 mt-3">
       <button class="btn btn-outline-primary w-100 dropdown-toggle" type="button" id="csvDropdownBtn" data-bs-toggle="dropdown" aria-expanded="false">
         CSV Files
@@ -30,6 +48,9 @@
       </ul>
     </div>
     <div id="result" style="display:none;" class="alert alert-info mt-3 text-center"></div>
+    <div class="text-center mt-3">
+      <small class="text-muted">Created by najtms</small>
+    </div>
   </div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>

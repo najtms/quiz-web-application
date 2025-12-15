@@ -13,3 +13,16 @@ body {
 button, .btn {
   font-size: 1rem;
 }
+
+.review-container {
+  max-height: 400px;
+  overflow-y: auto;
+}
+
+.review-item {
+  transition: transform 0.2s;
+}
+
+.review-item:hover {
+  transform: translateX(5px);
+}
