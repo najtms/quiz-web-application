@@ -115,20 +115,17 @@ function shuffleArray(array) {
 window.addEventListener('DOMContentLoaded', () => {
   // List of CSV files (update this array when adding new quiz files)
   const csvFiles = [
-    'DS.csv',
-    'Quiz for Web.csv',
-    'SE_Week_1.CSV',
-    'SE_Week_2.CSV',
-    'SE_Week_3.CSV',
-    'SE_Week_4.CSV',
-    'SE_Week_5.CSV',
-    'SE_Week_6.CSV',
-    'SE_Week_7.CSV',
-    'SE_Week_8.CSV',
-    'SE_Week_9.CSV',
-    'SE_Week_10.CSV',
-    'SE_Week_11.CSV',
-    'Week 1 Introduction to Ethical Aspects of Computing.csv'
+    'Week 1 Introduction to Ethical Aspects of Computing.csv',
+    'Week 2 Introduction to Legal Aspects of Computing.csv',
+    'Week 3 A Short History of Ethics.csv',
+    'Week 4 Professional Responsibility of Computer Professionals.csv',
+    'Week 5 Ethical Software Engineering.csv',
+    'Week 6 Ethical and Legal Aspects of Data Science.csv',
+    'Week 7 Data Privacy.csv',
+    'Week 8 Ethical Social Media.csv',
+    'Week 9 Ethics and AI.csv',
+    'Week 10 Introduction to Law.csv',
+    'Week 11 Legal and Ethical Aspects of Outsourcing.csv'
   ];
   
   const csvDropdownMenu = document.getElementById("csvDropdownMenu");
