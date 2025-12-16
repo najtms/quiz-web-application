@@ -113,25 +113,39 @@ function shuffleArray(array) {
 }
 
 window.addEventListener('DOMContentLoaded', () => {
-  fetch('CSV/list.php')
-    .then(response => response.json())
-    .then(csvFiles => {
-      const csvDropdownMenu = document.getElementById("csvDropdownMenu");
-      csvDropdownMenu.innerHTML = '';
-      csvFiles.forEach(filename => {
-        const li = document.createElement("li");
-        const a = document.createElement("a");
-        a.className = "dropdown-item";
-        a.href = "#";
-        a.innerText = filename;
-        a.onclick = (e) => {
-          e.preventDefault();
-          loadQuizFromServer(filename);
-        };
-        li.appendChild(a);
-        csvDropdownMenu.appendChild(li);
-      });
-    });
+  // List of CSV files (update this array when adding new quiz files)
+  const csvFiles = [
+    'DS.csv',
+    'Quiz for Web.csv',
+    'SE_Week_1.CSV',
+    'SE_Week_2.CSV',
+    'SE_Week_3.CSV',
+    'SE_Week_4.CSV',
+    'SE_Week_5.CSV',
+    'SE_Week_6.CSV',
+    'SE_Week_7.CSV',
+    'SE_Week_8.CSV',
+    'SE_Week_9.CSV',
+    'SE_Week_10.CSV',
+    'SE_Week_11.CSV',
+    'Week 1 Introduction to Ethical Aspects of Computing.csv'
+  ];
+  
+  const csvDropdownMenu = document.getElementById("csvDropdownMenu");
+  csvDropdownMenu.innerHTML = '';
+  csvFiles.forEach(filename => {
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    a.className = "dropdown-item";
+    a.href = "#";
+    a.innerText = filename;
+    a.onclick = (e) => {
+      e.preventDefault();
+      loadQuizFromServer(filename);
+    };
+    li.appendChild(a);
+    csvDropdownMenu.appendChild(li);
+  });
 });
 
 function loadQuizFromServer(filename) {
